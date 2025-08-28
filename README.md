@@ -26,7 +26,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn keras tensorflow
 
 1.  Clone this repository:
     ```bash
-    git clone [repository_url]
+    git clone https://github.com/Agam-Pandey/Product-Demand-Forecast
     ```
 2.  Open the `forecast-product-demand-with-lstm.ipynb` notebook in a Jupyter environment.
 3.  Execute the cells sequentially to reproduce the data analysis and run the LSTM forecasting model.
